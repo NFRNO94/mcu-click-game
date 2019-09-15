@@ -11,8 +11,6 @@
   font-size: 18px;
 }
 
-
-
 .title:hover  {
 	-webkit-animation: jello-horizontal 1s ease-in both;
 	        animation: jello-horizontal 1s ease-in both;
