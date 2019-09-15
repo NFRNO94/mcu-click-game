@@ -1,0 +1,21 @@
+.navbar {
+    background-color: black;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    font-size: 28px;
+    margin: 10px;
+    color: white;
+}
+
+.navbar-brand:hover {
+    color: rgb(160, 159, 159);
+}
+
+.navbar-text {
+    font-size: 24px;
+    color: white;
+    float: right;
+}
